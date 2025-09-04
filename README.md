@@ -76,10 +76,6 @@ Whether you’re a student needing quick calculations, a professional who wants 
    yarn
    ```
 3. Add .env and get credentials from [Clerk](https://clerk.com/) and [Formspee](https://formspree.io/)  
- ```
-VITE_FORMSPREE_FORM_ID
-VITE_CLERK_PUBLISHABLE_KEY
- ```
 
 4. Start the development server:
    ```bash
