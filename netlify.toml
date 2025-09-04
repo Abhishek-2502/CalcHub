@@ -2,6 +2,9 @@
   command = "npm run build"
   publish = "dist"
 
+[build.environment]
+  SECRETS_SCAN_OMIT_KEYS = "VITE_CLERK_PUBLISHABLE_KEY,VITE_FORMSPREE_FORM_ID"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
