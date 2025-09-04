@@ -58,7 +58,7 @@ Whether you’re a student needing quick calculations, a professional who wants 
 ## Deployment
 
 - [Vercel](https://calc-hub-abhi.vercel.app/)
-- [Render](calc-hub-abhi.netlify.app)
+- [Render](https://calc-hub-abhi.netlify.app/)
 - Docker
 - Jenkins
 - AWS/GCP
