@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](public/Screenshoot/CalcHub.png)
-
 ![GitHub contributors](https://img.shields.io/github/contributors/Abhishek-2502/CalcHub?color=lightgrey)
 [![GitHub forks](https://img.shields.io/github/forks/Abhishek-2502/CalcHub?color=lightgrey)](https://github.com/Abhishek-2502/CalcHub/network)
 [![GitHub stars](https://img.shields.io/github/stars/Abhishek-2502/CalcHub?color=lightgrey)](https://github.com/Abhishek-2502/CalcHub/stargazers)
