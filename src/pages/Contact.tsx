@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/Button'
 import { Input } from '@/components/ui/Input'
 import {
   Send, Mail, Phone, MapPin, Github,
-  Linkedin, Twitter, Check, ChevronDown
+  Linkedin, Check, ChevronDown
 } from 'lucide-react'
 
 export default function Contact() {
