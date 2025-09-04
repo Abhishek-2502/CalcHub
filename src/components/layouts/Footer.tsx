@@ -98,7 +98,7 @@ export default function Footer() {
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </a>
-              <a href="https://.netlify.app/" className="text-muted-foreground hover:text-[#25b608]">
+              <a href="https://calc-hub-abhi.netlify.app/contact" className="text-muted-foreground hover:text-[#25b608]">
                 <Globe className="h-5 w-5" />
                 <span className="sr-only">Website</span>
               </a>
