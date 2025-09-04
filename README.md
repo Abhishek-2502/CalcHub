@@ -37,13 +37,6 @@ Whether you’re a student needing quick calculations, a professional who wants 
 - Responsive design
 - Clean and intuitive UI
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or later)
-- npm or yarn
-
 ## Available Calculators
 
 - Basic Calculator
@@ -61,6 +54,21 @@ Whether you’re a student needing quick calculations, a professional who wants 
 - TypeScript
 - Vite
 - Tailwind CSS
+
+## Deployment
+
+- [Vercel](https://calc-hub-abhi.vercel.app/)
+- [Render](calc-hub-abhi.netlify.app)
+- Docker
+- Jenkins
+- AWS/GCP
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm or yarn
 
 ### Installation
 
@@ -84,7 +92,6 @@ Whether you’re a student needing quick calculations, a professional who wants 
    yarn dev
    ```
 5. Open your browser and navigate to `http://localhost:5173`
-
 
 
 
