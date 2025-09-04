@@ -75,7 +75,11 @@ Whether you’re a student needing quick calculations, a professional who wants 
    # or
    yarn
    ```
-3. Rename .env_test to env and get credentials from [Clerk](https://clerk.com/) and [Formspee](https://formspree.io/)   
+3. Add .env and get credentials from [Clerk](https://clerk.com/) and [Formspee](https://formspree.io/)  
+ ```
+VITE_FORMSPREE_FORM_ID
+VITE_CLERK_PUBLISHABLE_KEY
+ ```
 
 4. Start the development server:
    ```bash
@@ -100,6 +104,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Built with ❤️ by Abhishek Rajput for developers**
 
-[Website](https://.netlify.app/) • [GitHub](https://github.com/Abhishek-2502) • [Linkedin](www.linkedin.com/in/abhishek--rajput)
+[Website](https://.netlify.app/) • [GitHub](https://github.com/Abhishek-2502) • [Linkedin](https://linkedin.com/in/abhishek--rajput)
 
 </div>
