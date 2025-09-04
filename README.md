@@ -75,13 +75,15 @@ Whether you’re a student needing quick calculations, a professional who wants 
    # or
    yarn
    ```
-3. Start the development server:
+3. Rename .env_test to env and get credentials from [Clerk](https://clerk.com/) and [Formspee](https://formspree.io/)   
+
+4. Start the development server:
    ```bash
    npm run dev
    # or
    yarn dev
    ```
-4. Open your browser and navigate to `http://localhost:5173`
+5. Open your browser and navigate to `http://localhost:5173`
 
 
 
